@@ -102,3 +102,60 @@ print("Link: " + str(link))
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#print(worksheet.cell(2,1).value)
+#worksheet.update_acell('B2', '0)
+#worksheet.update_cell(3,2, 'new val')
+
+#print(worksheet.find('Test'))
+
+#list_of_cells = worksheet.findall('Test')
+
+
+#list_of_cells[2].value = 'now'
+
+#worksheet.update_cells(list_of_cells)
+
+#for cell in list_of_cells:
+ #   cell.value = 'Looped value'
+
+#worksheet.update_cells(list_of_cells)
+
+
+
+
+
+
+
+
+#https://www.youtube.com/watch?v=yPQ2Gk33b1U&t=19s
+
+# delete row by indexing from ss
+#index = 2
+#worksheet.delete_row(index)
+
+#append data
+#worksheet.append_row(['Irfan', '4'])
+
+
